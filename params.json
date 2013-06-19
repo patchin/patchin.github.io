@@ -1,0 +1,1 @@
+{"name":"Test1","tagline":"Test Site","body":"<input type=\"button\" onclick=\"doAction()\">Save Text</button>\r\n<script type=\"javascript\">\r\nfunction doAction() {\r\n    alert(\"Hello Pat\");\r\n}\r\n</script>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
